@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-12.6.2.jre11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/3D Objects/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.2.jre11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
